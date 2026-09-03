@@ -1,7 +1,7 @@
 <h1 align="center">Ismail Hammami</h1>
 
 <p align="center">
-  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · AI Security · Lausanne, Switzerland
+  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · ML/AI Engineering · AI Security · Lausanne, Switzerland
 </p>
 
 <p align="center">
@@ -14,12 +14,18 @@
 
 ### About
 
-I came to security from applied mathematics and machine learning, and I'm now pointed at
-the place where the two meet: **making AI systems that hold up under adversarial pressure.**
+I came to security from applied mathematics and machine learning, and I work both sides of
+it: **building ML systems, and studying how they break under adversarial pressure.**
 
 - 🎓 **Studying:** Joint Cybersecurity MSc between EPFL and ETH Zürich (2025–2027), after a
   Communication Systems BSc at EPFL with a data-science track
-- 🔍 **Interested in:** adversarial ML, model and pipeline security, applied cryptography, secure systems
+- 🛠️ **Building:** several ML / AI engineering projects — training, evaluation, and deployment
+  of multimodal and language models
+- 🔍 **Working across:**
+  - **ML &amp; AI engineering** — multimodal foundation models, NLP, deep learning pipelines
+  - **AI security** — adversarial ML, model and pipeline robustness
+  - **Decentralized systems** — blockchain protocols, consensus, web3
+  - **Cybersecurity** — threat modeling, software security, information security &amp; privacy
 - 🧑‍🏫 **Teaching:** TA for *Intelligent Systems: Communications & AI* at EPFL — 100+ students,
   foundation-models track, in collaboration with [VILAB](https://vilab.epfl.ch/)
 - 🚩 **Playing:** CTFs with [polygl0ts](https://polygl0ts.ch/), EPFL's CTF team
@@ -28,13 +34,19 @@ the place where the two meet: **making AI systems that hold up under adversarial
 
 ### Selected work
 
-| Project | What it is |
-| --- | --- |
-| **[Nano4M — sign language translation](https://github.com/smailerthegoat/nano4m)** | Multimodal translation system built on the 4M architecture (an EPFL–Apple collaboration). Implemented and extended a nano variant for real-time translation across RGB video, human pose, and text. *Bachelor project.* |
-| **[Namecoin](https://github.com/smailerthegoat/namecoin)** | Decentralized domain-name registration on a custom blockchain in Go — consensus with fork resolution, transaction validation, and peer-to-peer propagation. |
-| **[Image-based file management system](https://github.com/smailerthegoat/image-file-system)** | Systems-level CLI in C for efficient image storage and retrieval, modelled on Facebook's Haystack. |
+> These repositories are private — happy to walk through the code or architecture on request.
 
-<!-- Fix the three repo URLs above to match your actual repo slugs, then pin these on your profile. -->
+**Nano4M — sign language translation** · *Bachelor project*<br>
+Multimodal translation system built on the 4M architecture (an EPFL–Apple collaboration).
+Implemented and extended a nano variant for real-time translation across RGB video, human
+pose, and text.
+
+**Namecoin** · *Go*<br>
+Decentralized domain-name registration on a custom blockchain — consensus with fork
+resolution, transaction validation, and peer-to-peer propagation.
+
+**Image-based file management system** · *C*<br>
+Systems-level CLI for efficient image storage and retrieval, modelled on Facebook's Haystack.
 
 ---
 
@@ -47,7 +59,8 @@ Python · C / C++ · Go · Java · Scala · Assembly
 PyTorch · NumPy · Pandas · NetworkX · Matplotlib · multimodal foundation models · NLP
 
 **Security**<br>
-Software &amp; system security · information security and privacy · applied cryptography · decentralized systems · CTF tooling
+Threat modeling · software &amp; system security · information security and privacy ·
+applied cryptography · decentralized systems · CTF tooling
 
 **Foundations**<br>
 Probability &amp; stochastic models · statistics · algorithms &amp; data structures · operating systems · networks
@@ -68,4 +81,4 @@ Working in French, English, Arabic, and Spanish.
   <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smailerthegoat&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent">
 </p>
 
-<p align="center"><sub>Open to internships and collaboration in AI security.</sub></p>
+<p align="center"><sub>Open to internships and collaboration in ML/AI engineering and AI security.</sub></p>

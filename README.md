@@ -1,7 +1,7 @@
 <h1 align="center">Ismail Hammami</h1>
 
 <p align="center">
-  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · ML/AI Engineering · AI Security · Lausanne, Switzerland
+  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · ML/AI Engineering · AI Security & Safety · Lausanne, Switzerland
 </p>
 
 <p align="center">
@@ -22,22 +22,21 @@ it: **building ML systems, and studying how they break under adversarial pressur
 - 🛠️ **Building:** several ML / AI engineering projects — training, evaluation, and deployment
   of multimodal and language models
 - 🔍 **Working across:**
+  - **Cybersecurity** — threat modeling, software security, information security &amp; privacy
   - **ML &amp; AI engineering** — multimodal foundation models, NLP, deep learning pipelines
   - **AI security** — adversarial ML, model and pipeline robustness
   - **Decentralized systems** — blockchain protocols, consensus, web3
-  - **Cybersecurity** — threat modeling, software security, information security &amp; privacy
-- 🧑‍🏫 **Teaching:** TA for *Intelligent Systems: Communications & AI* at EPFL — 100+ students,
-  foundation-models track, in collaboration with [VILAB](https://vilab.epfl.ch/)
-- 🚩 **Playing:** CTFs with [polygl0ts](https://polygl0ts.ch/), EPFL's CTF team
 
+- 🧑‍🏫 **Assisting:** Assistant for *Intelligent Systems: Communications & AI* at EPFL  — 100+ students,
+  foundation-models track, in collaboration with [VILAB](https://vilab.epfl.ch/) Spring 2026
 ---
 
 ### Selected work
 
 > These repositories are private — happy to walk through the code or architecture on request.
 
-**Nano4M — sign language translation** · *Bachelor project*<br>
-Multimodal translation system built on the 4M architecture (an EPFL–Apple collaboration).
+**Nano4M — sign language Recognition** · *Bachelor project*<br>
+Multimodal system built on the 4M architecture (an EPFL–Apple collaboration).
 Implemented and extended a nano variant for real-time translation across RGB video, human
 pose, and text.
 
@@ -68,11 +67,9 @@ Probability &amp; stochastic models · statistics · algorithms &amp; data struc
 ---
 
 ### Beyond the code
-
-Class delegate for the Communication Systems BSc · active in the
-[Blockchain Student Association](https://bsa.epfl.ch/) · basketball team captain ·
 guitar · chess (1000+ Elo).
-Working in French, English, Arabic, and Spanish.
+
+Working in French, English, Spanish, Arabic.
 
 ---
 

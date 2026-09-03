@@ -1,62 +1,65 @@
 <h1 align="center">Ismail Hammami</h1>
 
 <p align="center">
-  <strong>Digital Forensics &amp; Incident Response</strong> · Threat Hunting · Detection Engineering
+  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · AI Security · Lausanne, Switzerland
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ismail.hammami@epfl.ch"><img alt="EPFL email" src="https://img.shields.io/badge/EPFL-FF0000?style=flat-square&logo=maildotru&logoColor=white"></a>
   <a href="mailto:ismailhammami0000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR-BLOG-OR-SITE"><img alt="Website" src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=hugo&logoColor=white"></a>
 </p>
 
 ---
 
 ### About
 
-I work on the evidence side of security — turning disk images, memory captures, and log
-volume into a defensible timeline of what actually happened.
+I came to security from applied mathematics and machine learning, and I'm now pointed at
+the place where the two meet: **making AI systems that hold up under adversarial pressure.**
 
-- 🔬 **Focus:** host forensics, memory analysis, and timeline reconstruction on Windows and Linux
-- 🛠️ **Building:** tooling that automates the repetitive half of an investigation so the analysis stays human
-- 📚 **Currently learning:** <!-- e.g. Velociraptor at scale, cloud IR in Azure/AWS -->
-- 💬 **Ask me about:** NTFS artifacts, `$MFT`/`$UsnJrnl` parsing, Volatility 3 plugins, Plaso super-timelines
+- 🎓 **Studying:** Joint Cybersecurity MSc between EPFL and ETH Zürich (2025–2027), after a
+  Communication Systems BSc at EPFL with a data-science track
+- 🔍 **Interested in:** adversarial ML, model and pipeline security, applied cryptography, secure systems
+- 🧑‍🏫 **Teaching:** TA for *Intelligent Systems: Communications & AI* at EPFL — 100+ students,
+  foundation-models track, in collaboration with [VILAB](https://vilab.epfl.ch/)
+- 🚩 **Playing:** CTFs with [polygl0ts](https://polygl0ts.ch/), EPFL's CTF team
 
 ---
 
 ### Selected work
 
-| Project | What it does |
+| Project | What it is |
 | --- | --- |
-| **[project-one](https://github.com/smailerthegoat/project-one)** | <!-- one line: the problem it solves, not the tech --> |
-| **[project-two](https://github.com/smailerthegoat/project-two)** | <!-- one line --> |
-| **[project-three](https://github.com/smailerthegoat/project-three)** | <!-- one line --> |
+| **[Nano4M — sign language translation](https://github.com/smailerthegoat/nano4m)** | Multimodal translation system built on the 4M architecture (an EPFL–Apple collaboration). Implemented and extended a nano variant for real-time translation across RGB video, human pose, and text. *Bachelor project.* |
+| **[Namecoin](https://github.com/smailerthegoat/namecoin)** | Decentralized domain-name registration on a custom blockchain in Go — consensus with fork resolution, transaction validation, and peer-to-peer propagation. |
+| **[Image-based file management system](https://github.com/smailerthegoat/image-file-system)** | Systems-level CLI in C for efficient image storage and retrieval, modelled on Facebook's Haystack. |
 
-> Pin these three on your profile so they appear above this README.
+<!-- Fix the three repo URLs above to match your actual repo slugs, then pin these on your profile. -->
 
 ---
 
 ### Toolbox
 
-**Forensics &amp; IR**<br>
-Volatility 3 · The Sleuth Kit · Plaso / log2timeline · Eric Zimmerman Tools · YARA · bulk_extractor · Velociraptor · Autopsy
-
-**Detection &amp; Analysis**<br>
-Sigma · MITRE ATT&amp;CK · Splunk · Elastic / KQL · Suricata · Zeek
-
 **Languages**<br>
-Python · Bash · PowerShell · SQL
+Python · C / C++ · Go · Java · Scala · Assembly
 
-**Platforms**<br>
-Linux (SANS SIFT, Ubuntu) · Windows internals · Docker · Git
+**ML &amp; data**<br>
+PyTorch · NumPy · Pandas · NetworkX · Matplotlib · multimodal foundation models · NLP
+
+**Security**<br>
+Software &amp; system security · information security and privacy · applied cryptography · decentralized systems · CTF tooling
+
+**Foundations**<br>
+Probability &amp; stochastic models · statistics · algorithms &amp; data structures · operating systems · networks
 
 ---
 
-### Certifications
+### Beyond the code
 
-<!-- Delete the ones that don't apply. Only list what you actually hold. -->
-- GIAC GCFA — Certified Forensic Analyst *(in progress)*
-- SANS FOR508 — Advanced Incident Response, Threat Hunting &amp; Digital Forensics
+Class delegate for the Communication Systems BSc · active in the
+[Blockchain Student Association](https://bsa.epfl.ch/) · basketball team captain ·
+guitar · chess (1000+ Elo).
+Working in French, English, Arabic, and Spanish.
 
 ---
 
@@ -65,4 +68,4 @@ Linux (SANS SIFT, Ubuntu) · Windows internals · Docker · Git
   <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smailerthegoat&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent">
 </p>
 
-<p align="center"><sub>Open to collaboration on open-source DFIR tooling.</sub></p>
+<p align="center"><sub>Open to internships and collaboration in AI security.</sub></p>

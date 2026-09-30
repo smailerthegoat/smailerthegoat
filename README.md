@@ -73,9 +73,4 @@ Working in French, English, Spanish, Arabic.
 
 ---
 
-<p align="center">
-  <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=smailerthegoat&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent">
-  <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smailerthegoat&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent">
-</p>
-
 <p align="center"><sub>Open to internships and collaboration in ML/AI engineering and AI security.</sub></p>

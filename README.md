@@ -73,4 +73,4 @@ Working in French, English, Spanish, Arabic.
 
 ---
 
-<p align="center"><sub>Open to internships and collaboration in ML/AI engineering and AI security.</sub></p>
+<p align="center"><sub>Open to internships and collaboration in Cybersecurity, ML/AI engineering and AI security.</sub></p>

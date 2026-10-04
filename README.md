@@ -16,10 +16,10 @@ Building ML and LLM systems, and studying how they break under adversarial press
 Most of what I build ends in a measurement, because a security claim is only as good as
 the evidence behind it.
 
-- **AI security &amp; safety** — adversarial ML, prompt injection, guardrails, agent robustness
-- **Software &amp; information security** — threat modelling, fuzzing, privacy engineering, CTFs
-- **AI engineering** — agents and tool use, retrieval, evaluation harnesses
-- **Decentralized systems** — consensus, peer-to-peer protocols, proof of personhood
+- **AI security &amp; safety**: adversarial ML, prompt injection, guardrails, agent robustness
+- **Software &amp; information security**: threat modelling, fuzzing, privacy engineering, CTFs
+- **AI engineering**: agents and tool use, retrieval, evaluation harnesses
+- **Decentralized systems**: consensus, peer-to-peer protocols, proof of personhood
 
 MSc Cybersecurity, EPFL &amp; ETH Zürich.
 

@@ -1,76 +1,56 @@
 <h1 align="center">Ismail Hammami</h1>
 
 <p align="center">
-  MSc Cybersecurity @ <strong>EPFL &amp; ETH&nbsp;Zürich</strong> · ML/AI Engineering · AI Security & Safety · Lausanne, Switzerland
+  Cybersecurity, AI engineering, and the overlap: AI security &amp; safety.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ismail.hammami@epfl.ch"><img alt="EPFL email" src="https://img.shields.io/badge/EPFL-FF0000?style=flat-square&logo=maildotru&logoColor=white"></a>
-  <a href="mailto:ismailhammami0000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://smailerthegoat.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-smailerthegoat.github.io-2f6fe8?style=for-the-badge"></a>
 </p>
 
 ---
 
-### About
+### What I work on
 
-I came to security from applied mathematics and machine learning, and I work both sides of
-it: **building ML systems, and studying how they break under adversarial pressure.**
+Building ML and LLM systems, and studying how they break under adversarial pressure.
+Most of what I build ends in a measurement, because a security claim is only as good as
+the evidence behind it.
 
-- 🎓 **Studying:** Joint Cybersecurity MSc between EPFL and ETH Zürich (2025–2027), after a
-  Communication Systems BSc at EPFL with a data-science track
-- 🛠️ **Building:** several ML / AI engineering projects — training, evaluation, and deployment
-  of multimodal and language models
-- 🔍 **Working across:**
-  - **Cybersecurity** — threat modeling, software security, information security &amp; privacy
-  - **ML &amp; AI engineering** — multimodal foundation models, NLP, deep learning pipelines
-  - **AI security** — adversarial ML, model and pipeline robustness
-  - **Decentralized systems** — blockchain protocols, consensus, web3
+- **AI security &amp; safety** — adversarial ML, prompt injection, guardrails, agent robustness
+- **Software &amp; information security** — threat modelling, fuzzing, privacy engineering, CTFs
+- **AI engineering** — agents and tool use, retrieval, evaluation harnesses
+- **Decentralized systems** — consensus, peer-to-peer protocols, proof of personhood
 
-- 🧑‍🏫 **Assisting:** Assistant for *Intelligent Systems: Communications & AI* at EPFL  — 100+ students,
-  foundation-models track, in collaboration with [VILAB](https://vilab.epfl.ch/) Spring 2026
----
-
-### Selected work
-
-> These repositories are private — happy to walk through the code or architecture on request.
-
-**Nano4M — sign language Recognition** · *Bachelor project*<br>
-Multimodal system built on the 4M architecture (an EPFL–Apple collaboration).
-Implemented and extended a nano variant for real-time translation across RGB video, human
-pose, and text.
-
-**Namecoin** · *Go*<br>
-Decentralized domain-name registration on a custom blockchain — consensus with fork
-resolution, transaction validation, and peer-to-peer propagation.
-
-**Image-based file management system** · *C*<br>
-Systems-level CLI for efficient image storage and retrieval, modelled on Facebook's Haystack.
+MSc Cybersecurity, EPFL &amp; ETH Zürich.
 
 ---
 
-### Toolbox
+### Languages
 
-**Languages**<br>
-Python · C / C++ · Go · Java · Scala · Assembly
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**ML &amp; data**<br>
-PyTorch · NumPy · Pandas · NetworkX · Matplotlib · multimodal foundation models · NLP
+### Tools
 
-**Security**<br>
-Threat modeling · software &amp; system security · information security and privacy ·
-applied cryptography · decentralized systems · CTF tooling
-
-**Foundations**<br>
-Probability &amp; stochastic models · statistics · algorithms &amp; data structures · operating systems · networks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 ---
 
-### Beyond the code
-guitar · chess (1000+ Elo).
-
-Working in French, English, Spanish, Arabic.
-
----
-
-<p align="center"><sub>Open to internships and collaboration in Cybersecurity, ML/AI engineering and AI security.</sub></p>
+<p align="center">
+  Most of my work lives in private repositories.<br>
+  The write-ups are on <a href="https://smailerthegoat.github.io">smailerthegoat.github.io</a>, and I am happy to walk through the code.
+</p>
